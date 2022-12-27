@@ -87223,9 +87223,9 @@ html.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown):not(.sweetalert
     padding: 2rem
 }
 
-.swal2-popup .swal2-icon {
+/* .swal2-popup .swal2-icon {
     margin: 2rem 0 0
-}
+} */
 
 .swal2-popup .swal2-title {
     color: #181c32;
