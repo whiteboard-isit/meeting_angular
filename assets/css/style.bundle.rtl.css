@@ -9010,7 +9010,7 @@ button.bg-white:hover {
 
 @supports (position:sticky) {
     .sticky-top {
-        position: fixed;
+        position: sticky;
         width:100%;
         top: 0;
         z-index: 1020;
