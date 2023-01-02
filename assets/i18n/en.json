@@ -20,6 +20,8 @@
     "minutes_before": "minutes before",
     "meeting_decription": "meeting decription",
     "notification_not_read": "notification not read",
+    "notification_Fav": "notification Favorite",
+    "emailsSent": "Emails Sent",
     "Loading_events": "Loading events",
     "Loading": "Loading",
     "email": "email",
@@ -87,6 +89,7 @@
     "quick_actions": "quick actions",
     "external_attendees": "External attendees",
     "facilities": "facilities",
+    "new_facility":"New facility",
     "specify_location_on_the_map": "Specify location on the map",
     "Internal": "Internal",
     "edit_meeting": "edit meeting",
@@ -195,6 +198,9 @@
 
   },
   "adminstration": {
+    "enter_email":"Enter email",
+    "new_password_confirmation":"New password confirmation",
+    "reset_password":"Reset password",
     "loading_in_progress": "Loading in progress",
     "course": "Course",
     "session": "session",
@@ -785,7 +791,7 @@
     "sliderManagement": "Slider Management",
     "addNewSlider": "Add New Slider",
     "addedSuccessfully": "CMS Added Successfully",
-    "CMSDeletedSuccessfully": "CMS Deleted Successfully",
+    "CMSDeletedSuccessfully": "Deleted Successfully",
     "CMSUpdatedSuccessfully": "CMS Updated Successfully",
     "customization": "Customization",
     "changeLogo": "Change Logo",
@@ -1292,7 +1298,24 @@
     "myActivity": "My Activity",
     "myMessage": "my Message",
     "answers":"answers",
-    "ViewAndAdd":"View And Add"
+    "ViewAndAdd":"View And Add",
+    "reload":"reload",
+    "mark_as_read":"mark as read",
+    "add_to_favorite":"add to favorite",
+    "sort_by":"sort by",
+    "latest":"latest",
+    "oldest":"oldest",
+    "first":"first",
+    "last":"last",
+    "Not_delete": "Not deleted",
+    "Not_Added": "Not Added",
+    "remove_from_favorite":"remove from favorite",
+    "mark_as_notread":"mark as not read",
+    "notread":"not read"
+
+
+
+
 
 
 

@@ -18,6 +18,9 @@
     "minutes_before": "قبل دقائق",
     "meeting_decription": "وصف الإجتماع",
     "notification_not_read": "الإشعارات غير المقروءة",
+    "notification_Fav": "الإشعارات  المفضلة",
+    "emailsSent": "رسايل البريد الالكترونى المرسلة",
+
     "Loading_events":"تحميل الاحداث",
     "Loading":"تحميل",
     "email":"البريد الإلكتروني",
@@ -85,6 +88,7 @@
     "quick_actions": "وصول سريع",
     "external_attendees": "حضور خارجي",
     "facilities": "مرافق",
+    "new_facility": "مرفق جديد",
     "specify_location_on_the_map": "تحديد الموقع بإستخدام نظام الخرائط",
     "Internal": "داخلى",
     "edit_meeting": "تعديل الاجتماع",
@@ -196,6 +200,9 @@
     "snooz":"لاحقا"
   },
   "adminstration": {
+    "enter_email":"أدخل البريد الإلكتروني",
+    "new_password_confirmation":"تأكيد كلمه السر",
+    "reset_password":"إعادة تعيين كلمة المرور",
     "loading_in_progress": "جاري التحميل",
     "opps":"عذرا",
     "We_cant_find_that_page":"لا يمكننا العثور على تلك الصفحة",
@@ -394,7 +401,6 @@
     "wantDelete": "هل أنت متأكد من حذف الموعد ؟",
     "want_delete_enrollment_policy": "هل أنت متأكد من حذف سياسه التسجيل ؟",
     "cannotRegress": "لن تتمكن من التراجع عن هذا!",
-    "cancel": "إلغاء",
     "appointmentDeleted": "تم حذف الموعد بنجاح",
     "delete-warning": "سوف يتم الحذف بصوره نهائيه",
     "end-warning": "سوف يتم الإنهاء بصوره نهائيه",
@@ -1433,6 +1439,9 @@
     "statistics": "الإحصائيات",
     "please_use_another_supported_web_browser": "برجاء استخدام متصفح أخر مدعوم",
     "Not_Save": "لم يتم الحفظ",
+    "Not_delete": "لم يتم الحذف",
+    "Not_Added": "لم يتم الأضافة",
+
     "Diagram_not_Complate": "الديجرام غير مكتمل",
     "All_Item_Not_Used": "يجب استخدام كل العناصر",
     "Links_Not_all_connected": "الدورات ليست كلها متصلة",
@@ -1454,6 +1463,20 @@
     "files": "الملفات",
     "file_size": "حجم الملف",
     "answers":"الاجابات",
-    "ViewAndAdd":"اضافة وعرض"
+    "ViewAndAdd":"اضافة وعرض",
+    "reload":"اعادة تحميل",
+    "mark_as_read":"تحديد كمقروء",
+    "mark_as_notread":"تحديد كغير مقروء",
+    "notread":" لم يتم تحديد كغير مقروء",
+
+    "add_to_favorite":"اضف الى المفضلة",
+    "sort_by":"ترتيب حسب",
+    "latest":"الأحدث",
+    "oldest":"الأقدم",
+    "first":"الأول",
+    "last":"الاخير",
+    "cancel":"إلغاء",
+    "remove_from_favorite":"حذف من المفضلة"
+
   }
 }
