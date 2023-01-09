@@ -668,7 +668,7 @@ pre code {
     .container-lg,
     .container-md,
     .container-sm {
-        max-width: 960px
+        max-width: 800px
     }
 }
 
@@ -88790,4 +88790,9 @@ canvas {
 
 body {
     background: #eef0f8
+}
+@media (max-width:767px) {
+    .navbar-expand-lg .navbar-nav .dropdown-menu{
+        position: absolute;
+    }
 }

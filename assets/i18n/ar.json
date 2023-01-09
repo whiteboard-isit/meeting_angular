@@ -1,13 +1,13 @@
 {
   "dir":"rtl",
   "meeting_manager": {
+    "meeting_title": "عنوان الإجتماع",
     "meeting_manager":"مدير الإجتماعات",
     "Home": "الرئيسية",
     "Meeting": "اجتماع",
     "Meetings": "الأجتماعات",
     "meetings_manager": "مدير نظام الإجتماعات",
     "schedule_meeting": "ترتيب موعد الأجتماع",
-    "meeting_title": "عنوان الإجتماع",
     "invite_attendees": "دعوة الحضور",
     "start_time": "وقت البدء",
     "settings": "الأعدادات",
@@ -15,13 +15,16 @@
     "all_day": "طوال اليوم ",
     "meeting_location": "موقع الاجتماع",
     "manage_locations": "ادارة القاعات",
+    "locations_management": "ادارة المواقع",
+     "Assigned":"تكليف",
     "minutes_before": "قبل دقائق",
     "meeting_decription": "وصف الإجتماع",
     "notification_not_read": "الإشعارات غير المقروءة",
     "notification_Fav": "الإشعارات  المفضلة",
     "emailsSent": "رسايل البريد الالكترونى المرسلة",
-
+    "Health_and_National_Insurance_Center":"مركز التأمين الصحى والوطنى",
     "Loading_events":"تحميل الاحداث",
+    "Event":"حدث",
     "Loading":"تحميل",
     "email":"البريد الإلكتروني",
     "day": "يوم",
@@ -73,6 +76,7 @@
     "task_deadline": "الموعد النهائي للمهمة",
     "task_history": "تاريخ المهمة",
     "subtasks": "المهام الفرعية",
+    "configured":"مهيأ",
     "end_task_as_successful": "إنهاء المهمة بنجاح",
     "end_task_as_failed": "إنهاء المهمة على أنها فاشلة",
     "meetings_attachments": "الملفات المرفقة",
@@ -103,7 +107,7 @@
     "accept_meeting": "قبول حضور الأجتماع",
     "refused_meeting": "رفض حضور الأجتماع",
     "print": "طباعة",
-    "start_date": "البداية",
+    "start_date": "بداية ",
     "end_date": "النهاية",
     "assignment": "الأجراء",
     "actions": "حالة الاجراء",
@@ -132,8 +136,8 @@
     "user_translate":"ترجمة المستخدم",
     "MeetingAttendeeStatus_update":"تحديث حالة حضور الاجتماع",
     "there_are_no_data":"لا يوجد بيانات",
-    "there_are_no_Notification":"لا يوجد اشعارات"
-
+    "there_are_no_Notification":"لا يوجد اشعارات",
+     "add_track":"إضافة للمسار"
   },
   "survey": {
     "create_new_survey": "إنشاء استبيان جديد",
@@ -191,7 +195,7 @@
     "survey": "استبيان",
     "view_surveys": "عرض الأستبيانات",
     "enable_survey": "تفعيل الأستبيان",
-    "please_choose_survey": "برجاء أختيار الاستبيان المطلوب",
+    "please_choose_survey": "برجاء أختيار الاستبيان",
     "my_surveys": "أستبياناتي",
     "all_surveys": "كل الأستبيانات",
     "not_finished": "لم ينتهي",
@@ -200,11 +204,14 @@
     "snooz":"لاحقا"
   },
   "adminstration": {
+    "Loading_please_wait":"جارى التحميل انتظر من فضلك",
     "enter_email":"أدخل البريد الإلكتروني",
     "new_password_confirmation":"تأكيد كلمه السر",
     "reset_password":"إعادة تعيين كلمة المرور",
     "loading_in_progress": "جاري التحميل",
     "opps":"عذرا",
+    "Add_all_selection":"اضافة كل التحديد",
+    "Occupation":"المهنة",
     "We_cant_find_that_page":"لا يمكننا العثور على تلك الصفحة",
     "ReturnHome":"العودة لصفحة الرئيسية",
     "course": "دورة",
@@ -530,6 +537,12 @@
     "LaunchingSelfDevelopmentProgram": "إطلاق برنامج التطوير الذاتي",
     "starts": "تبدأ",
     "ends": "تنتهى",
+    "not_ended": "لم تنتهى",
+
+    "starts_at": "تبدأ فى",
+    "ends_at": "ينتهى عند",
+    "Primary_color":"لون ابتدائى",
+    "Secondary_text_color":" اللون ثانوى + لون النص",
     "trainningCoursesNum": "عدد الدورات التدريبية",
     "trainningCourse": "دورة تدريبية",
     "NumTrainningHours": "عدد الساعات التدريبية",
@@ -565,6 +578,7 @@
     "subjective": "ذاتى",
     "NotScheduled": "لم تجدول",
     "loginNow": "سجل دخول الآن",
+    "login": "سجل دخول",
     "continuePurchasing": "تابع الشراء",
     "previewNow": "استعرض الآن",
     "cannotRegisterConflict": "لا يمكن التسجيل لوجود تعارض مع دورة مسجلة ",
@@ -933,6 +947,8 @@
     "PleaseSelectReviwersList": "من فضلك اختر قائمة مراجعين",
     "Mohammed": "محمد",
     "Admins": "مشرفين",
+    "Admin": "مشرف",
+
     "PleaseSelectAdminsList": "من فضلك اختر قائمة مشرفين",
     "SetupCourseAccessMode": "إعداد إذن دخول الدورة",
     "WithoutLogin": "بدون دخول",
@@ -1027,6 +1043,7 @@
     "MinMeet": "الحد الادنى",
     "NotMeet": "لم تكتمل",
     "updates_saved_successfully": "تم حفظ التعديلات بنجاح",
+    "saved_successfully": "تم بنجاح",
     "create_new_classification": "انشاء تصنيف جديد",
     "create_new_category": "انشاء رمز جديد",
     "selectFormSkill": "أختر المهارات",
@@ -1476,7 +1493,33 @@
     "first":"الأول",
     "last":"الاخير",
     "cancel":"إلغاء",
-    "remove_from_favorite":"حذف من المفضلة"
+    "remove_from_favorite":"حذف من المفضلة",
+    "password_does_not_match":"غير مطابق مع كلمة السر",
+    "this_element_contains_9_numbers":"هذا العنصر يحتوى على 9 ارقام",
+    "this_element_contains_3_chars":"هذا العنصر يحتوى على 3 حروف",
+
+    "en":"الأنجليزية",
+    "ar":"العربية",
+    "signIn":"تسجيل دخول",
+    "remove":"حذف",
+    "ok":"موافق",
+    "Event_action_occurred":"حدث اجراء الحدث",
+    "here":"هنا",
+    "files_type":"انواع الملفات",
+
+    "activateMap":"تفعيل الخريطة",
+    "location":"موقغ",
+    "Room_Finder":"ايجاد الغرفة",
+    "Building":"المبنى",
+    "Select_a_building":"اختيار المبنى",
+    "Any":"اى",
+    "No_Features_Available":"لا توجد ميزات متاحة",
+    "Features":"سمات",
+    "floor":"أرضية",
+    "Search_for_employees_using_the_fields_below":"ابحث عن الموظفين باستخدام الحقول ادناة",
+    "Employees_who_have_been_attached_to_the_career_path":"الموظفين الذين تم الحاقهم بالمسار الوظيفى",
+    "Search_for_employees":"البحث عن موظفين"
 
   }
+
 }

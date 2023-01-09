@@ -1,22 +1,31 @@
 {
   "dir":"ltr",
   "meeting_manager": {
+    "Event":"Event",
+    "meeting_title": "Meeting Title",
+
     "meeting_manager": "Meeting manager",
+    "Health_and_National_Insurance_Center":"Health and National Insurance Center",
     "Home": "Home",
     "Meeting": "Meeting",
     "Meetings": "Meetings",
     "meetings_manager": "Meetings manager",
     "schedule_meeting": "schedule meeting",
-    "meeting_title": "meeting title",
     "invite_attendees": "invite attendees",
     "start_time": "start time",
     "settings": "Settings",
     "end_time": "end time",
     "all_day": "all day",
     "add_new": "add new",
+    "time_zone": "Time zone",
     "user_additions":"user additions",
     "meeting_location": "meeting location",
     "manage_locations": "manage locations",
+    "locations_management": "locations management",
+    "Assigned":"Assigned",
+    "configured":"configured",
+    "add_track":"add track",
+
     "minutes_before": "minutes before",
     "meeting_decription": "meeting decription",
     "notification_not_read": "notification not read",
@@ -194,10 +203,18 @@
     "my_surveys": "My surveys",
     "all_surveys": "All surveys",
     "not_finished": "Not finished",
-    "answer_body":"answer body"
+    "answer_body":"answer body",
+    "snooz":"snooz",
+    "start_now" : "start now"
+
 
   },
   "adminstration": {
+    "Loading_please_wait":"loading please wait",
+    "profile_img": "Profile Image",
+    "Occupation":"Occupation",
+    "Add_all_selection":"Add all selection",
+
     "enter_email":"Enter email",
     "new_password_confirmation":"New password confirmation",
     "reset_password":"Reset password",
@@ -947,6 +964,7 @@
     "NotMeet": "Not Meet",
     "TemplateMailable": "Template Mailable",
     "updates_saved_successfully": "Updates saved successfully",
+    "saved_successfully": "saved successfully",
     "create_new_classification": "Create new classification",
     "create_new_category": "Create new category",
     "selectFormSkill": "Select skill",
@@ -1164,7 +1182,6 @@
     "instructors_count": "Instructors count",
     "payments_total": "Earnings",
     "edit_course_details": "Edit course details",
-    "time_zone": "Time zone",
     "survey_will_be_deleted_but_you_can_attach_it_again_later": "Survey will be deleted but you can attach it again later",
     "Select-the-menu-you-want-to-edit": "Select The Menu You Want To Edit :",
     "Choose": "Choose",
@@ -1311,7 +1328,38 @@
     "Not_Added": "Not Added",
     "remove_from_favorite":"remove from favorite",
     "mark_as_notread":"mark as not read",
-    "notread":"not read"
+    "notread":"not read",
+    "password_does_not_match":"password does't match",
+    "this_element_contains_9_numbers":"this element contains 9 numbers",
+    "en":"English",
+    "ar":"Arabic",
+    "login": "Login",
+    "signIn":"sign In",
+    "remove":"remove",
+    "starts_at": "starts at",
+    "ends_at": "ends at",
+    "Primary_color":"Primary Color",
+    "Secondary_text_color":"Secondary + text color",
+    "ok":"ok",
+    "Event_action_occurred":"Event action occurred",
+    "here":"here",
+    "files_type":"files type",
+    "this_element_contains_3_chars":"this element contains 3 chars",
+    "activateMap":"Activate Map",
+    "not_ended": "not ended",
+    "location":"location",
+    "Any":"Any",
+    "Room_Finder":"Room Finder",
+    "Building":"Building",
+    "Select_a_building":"Select a building",
+    "No_Features_Available":"No Features Available",
+    "Features":"Features",
+    "floor":"floor",
+    "Search_for_employees_using_the_fields_below":"Search for employees using the fields below",
+    "Employees_who_have_been_attached_to_the_career_path":"Employees who have been attached to the career path",
+    "Search_for_employees":"Search for employees"
+
+
 
 
 
