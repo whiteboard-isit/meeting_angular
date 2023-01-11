@@ -204,7 +204,8 @@
     "snooz":"لاحقا"
   },
   "adminstration": {
-    "Loading_please_wait":"جارى التحميل انتظر من فضلك",
+    "download_file":"تحميل الملف",
+    "Loading_please_wait":"جاري التحميل برجاء الانتظار",
     "enter_email":"أدخل البريد الإلكتروني",
     "new_password_confirmation":"تأكيد كلمه السر",
     "reset_password":"إعادة تعيين كلمة المرور",

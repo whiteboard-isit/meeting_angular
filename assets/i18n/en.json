@@ -210,6 +210,7 @@
 
   },
   "adminstration": {
+    "download_file":"Download file",
     "Loading_please_wait":"loading please wait",
     "profile_img": "Profile Image",
     "Occupation":"Occupation",
