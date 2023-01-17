@@ -495,6 +495,8 @@
     "selectStatus": "Select Status:",
     "NoResultsFound": "No Results Matches Your Search",
     "unexpectedError": "Sorry!! an unexpected error occured",
+    "Error": "Sorry!!  error occured",
+
     "active_": "Active",
     "mostRatedCourses": "Most Rated Courses",
     "mostRatedInstructors": "Most Rated Instructors",

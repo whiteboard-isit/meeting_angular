@@ -1519,7 +1519,9 @@
     "floor":"أرضية",
     "Search_for_employees_using_the_fields_below":"ابحث عن الموظفين باستخدام الحقول ادناة",
     "Employees_who_have_been_attached_to_the_career_path":"الموظفين الذين تم الحاقهم بالمسار الوظيفى",
-    "Search_for_employees":"البحث عن موظفين"
+    "Search_for_employees":"البحث عن موظفين",
+    "Error": "عفوا حدث خطأ"
+
 
   }
 

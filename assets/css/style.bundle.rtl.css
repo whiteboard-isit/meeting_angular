@@ -84147,21 +84147,21 @@ screen and (max-width:991.98px) and (-ms-high-contrast:active) {
 }
 
 .dataTables_wrapper .dataTable {
-    border-collapse: initial !important;
+    /* border-collapse: initial !important;
     border-radius: .42rem;
     border-spacing: 0 !important;
-    width: 100% !important
+    width: 100% !important */
 }
 
 .dataTables_wrapper .dataTable td,
 .dataTables_wrapper .dataTable th {
-    color: #3f4254;
+    /* color: #3f4254;
     font-size: 1rem;
     font-weight: 400;
     outline: none !important;
     padding: 1rem;
     transition: color .15s ease, background-color .15s ease, border-color .15s ease, box-shadow .15s ease;
-    vertical-align: middle
+    vertical-align: middle */
 }
 
 .dataTables_wrapper .dataTable td .checkbox,
