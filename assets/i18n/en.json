@@ -1,6 +1,7 @@
 {
   "dir":"ltr",
   "meeting_manager": {
+    "choose_setting_value":"Choose setting value",
     "Event":"Event",
     "meeting_title": "Meeting Title",
 
@@ -39,7 +40,8 @@
     "week": "weak",
     "list": "list",
     "table": "table",
-    "reservation": "reservation",
+    "mail": "mail",
+    "reservation":"reservation",
     "add_new_Event": "Add New Event",
     "message": "Message",
     "internal": "internal",
@@ -117,6 +119,9 @@
     "end_date": "end date",
     "assignment": "assignment",
     "actions": "actions",
+    "attributeTitle":"Attribute Title",
+    "setting_classify":"setting classify",
+    "Type":"Type",
     "respond_to_invitation": "Respond to invitation",
     "follow": "follow",
     "meeting_location_type": "meeting_location_type",
@@ -139,7 +144,8 @@
     "user_translate":"user translate",
      "MeetingAttendeeStatus_update":"Meeting Attendee Status update",
      "there_are_no_data":"there are no data",
-     "there_are_no_Notification":"there are no Notifications"
+     "there_are_no_Notification":"there are no Notifications",
+     "Alert_date_before_the_meeting":"Alert date before the meeting"
 
 
   },
@@ -1359,17 +1365,21 @@
     "Features":"Features",
     "floor":"floor",
     "Search_for_employees_using_the_fields_below":"Search for employees using the fields below",
+    "Search_for_users_using_the_fields_below":"Search for users using the fields below",
+    "users_who_have_been_attached_to_the_role":"previously specified users",
+
     "Employees_who_have_been_attached_to_the_career_path":"Employees who have been attached to the career path",
-    "Search_for_employees":"Search for employees"
-
-
-
-
-
-
-
-
-
+    "Search_for_employees":"Search for employees",
+    "Map":"Map",
+    "optional":"Optional",
+    "Dont_Repeat":"Don't Repeat",
+    "Never":"Never",
+    "Daily":"Daily",
+    "Weekly":"Weekly",
+    "Monthly":"Monthly",
+    "Yearly":"Yearly",
+    "Custom":"Custom",
+    "Repeat":"Repeat"
 
 
   }

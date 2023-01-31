@@ -2080,7 +2080,7 @@ pre code {
 .table th {
     border-top: 1px solid #ebedf3;
     padding: .75rem;
-    vertical-align: top
+    vertical-align: middle
 }
 
 .table thead th {
@@ -84136,7 +84136,7 @@ screen and (max-width:991.98px) and (-ms-high-contrast:active) {
 .ck-body .ck-balloon-panel.ck-toolbar-container {
     border-radius: .42rem !important
 }
-
+/* 
 .dataTables_wrapper {
     padding: 0 !important
 }
@@ -84144,7 +84144,7 @@ screen and (max-width:991.98px) and (-ms-high-contrast:active) {
 .dataTables_wrapper .DTFC_LeftWrapper .dataTable,
 .dataTables_wrapper .DTFC_RightWrapper .dataTable {
     margin-top: 0 !important
-}
+} */
 
 .dataTables_wrapper .dataTable {
     /* border-collapse: initial !important;
@@ -84164,7 +84164,7 @@ screen and (max-width:991.98px) and (-ms-high-contrast:active) {
     vertical-align: middle */
 }
 
-.dataTables_wrapper .dataTable td .checkbox,
+/* .dataTables_wrapper .dataTable td .checkbox,
 .dataTables_wrapper .dataTable th .checkbox {
     left: -2px;
     margin: 0
@@ -84345,10 +84345,10 @@ screen and (max-width:991.98px) and (-ms-high-contrast:active) {
 .dataTables_wrapper .dataTables_paginate .pagination .page-item.last>.page-link:hover,
 .dataTables_wrapper .dataTables_paginate .pagination .page-item.next>.page-link:hover,
 .dataTables_wrapper .dataTables_paginate .pagination .page-item.previous>.page-link:hover {
-    background-color: #3699ff;
+    /* background-color: #3699ff;
     color: #fff;
-    transition: color .15s ease, background-color .15s ease, border-color .15s ease, box-shadow .15s ease
-}
+    transition: color .15s ease, background-color .15s ease, border-color .15s ease, box-shadow .15s ease */
+/* }
 
 .dataTables_wrapper .dataTables_paginate .pagination .page-item.active>.page-link,
 .dataTables_wrapper .dataTables_paginate .pagination .page-item.first>.page-link:hover>i,
@@ -84427,7 +84427,7 @@ screen and (max-width:991.98px) and (-ms-high-contrast:active) {
 .dataTables_wrapper .text-left .dataTables_filter,
 .dataTables_wrapper .text-right .dataTables_filter {
     display: inline-block
-}
+}  */
 
 @media (max-width:991.98px) {
     .dataTables_wrapper .dataTables_pager {
