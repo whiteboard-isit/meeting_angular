@@ -1143,9 +1143,9 @@ table.dataTable tbody th.selected a,
 table.dataTable tbody td.selected a {
     color: #a2d4ed;
 }
-.dataTables_wrapper .dataTables_length{
+/* .dataTables_wrapper .dataTables_length{
     display: none;
-}
+} */
 .dataTables_wrapper .dataTable th.sorting_asc:before{
     opacity: 0 !important;
  }

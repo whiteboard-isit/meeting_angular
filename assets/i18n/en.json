@@ -2,8 +2,10 @@
   "dir":"ltr",
   "meeting_manager": {
     "choose_setting_value":"Choose setting value",
+	  "meeting_subject":"Meeting Subject",
     "Event":"Event",
     "meeting_title": "Meeting Title",
+    "meetingHours":"Meeting Hours",
 
     "meeting_manager": "Meeting manager",
     "Health_and_National_Insurance_Center":"Health and National Insurance Center",
@@ -216,6 +218,12 @@
 
   },
   "adminstration": {
+    "mini_logo":"Mini logo",
+    "mega_logo":"Mega logo",
+    "change_logo":"Change logo",
+    "system_statistics":"System statistics",
+    "roles_and_permissions":"Roles and permissions",
+    "room_title":"Room title",
     "download_file":"Download file",
     "Loading_please_wait":"loading please wait",
     "profile_img": "Profile Image",
@@ -1379,8 +1387,22 @@
     "Monthly":"Monthly",
     "Yearly":"Yearly",
     "Custom":"Custom",
-    "Repeat":"Repeat"
-
+    "Repeat":"Repeat",
+    "control_panel":"control panel",
+    "general_view":"general view",
+    "Entity_Name":"Entity Name",
+    "Logo": "Logo",
+    "default_language":"default language",
+    "calendar_view": "calendar view",
+    "first_day":"First working day",
+    "time_scale":"time scale",
+    "work_weak":"work weak",
+    "sun":"sun",
+    "mon":"mon",
+    "tue":"tue",
+    "wed":"wed",
+    "thu":"thu",
+    "working_hours":"Working hours"
 
   }
 }
