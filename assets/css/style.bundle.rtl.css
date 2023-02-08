@@ -55948,7 +55948,7 @@ button {
 .btn.btn-default:not(:disabled):not(.disabled):active:not(.btn-text),
 .show .btn.btn-default.btn-dropdown,
 .show>.btn.btn-default.dropdown-toggle {
-    background-color: #f3f6f9;
+    /* background-color: #f3f6f9; */
     border-color: #f3f6f9;
     color: #3699ff
 }

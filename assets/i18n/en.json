@@ -1,6 +1,14 @@
 {
   "dir":"ltr",
   "meeting_manager": {
+    "private_meeting":"Private meeting",
+    "blue_category":"Blue category",
+    "purple_category":"Purple category",
+    "red_category":"Red category",
+    "orange_category":"Orange category",
+    "green_category":"Green category",
+    "meeting_category":"Meeting category",
+    "location_data":"Location data",
     "choose_setting_value":"Choose setting value",
 	  "meeting_subject":"Meeting Subject",
     "Event":"Event",
@@ -28,8 +36,10 @@
     "Assigned":"Assigned",
     "configured":"configured",
     "add_track":"add track",
-
-    "minutes_before": "minutes before",
+    "remind_before_15_minutes": "Remind before 15 minutes",
+    "remind_before_5_minutes": "Remind before 5 minutes",
+    "remind_before_10_minutes": "Remind before 10 minutes",
+    "meeting_reminder":"Meeting reminder",
     "meeting_decription": "meeting decription",
     "notification_not_read": "notification not read",
     "notification_Fav": "notification Favorite",
@@ -147,7 +157,8 @@
      "MeetingAttendeeStatus_update":"Meeting Attendee Status update",
      "there_are_no_data":"there are no data",
      "there_are_no_Notification":"there are no Notifications",
-     "Alert_date_before_the_meeting":"Alert date before the meeting"
+     "Alert_date_before_the_meeting":"Alert date before the meeting",
+     "build_meeting":"build meeting"
 
 
   },
@@ -218,6 +229,7 @@
 
   },
   "adminstration": {
+    "location_data":"Location data",
     "mini_logo":"Mini logo",
     "mega_logo":"Mega logo",
     "change_logo":"Change logo",
@@ -1402,7 +1414,27 @@
     "tue":"tue",
     "wed":"wed",
     "thu":"thu",
-    "working_hours":"Working hours"
+    "working_hours":"Working hours",
+    "buildings":"Buildings",
+    "floors":"floors",
+    "Last_7_Days":"Last 7 Days",
+    "Last_30_Days":"Last 30 Days",
+    "Select_please":"Select Please",
+    "clear":"Clear",
+    "fri":"fri",
+    "sat":"sat",
+    "jan": "jan",
+    "feb": "feb",
+    "mar": "mar",
+    "apr": "apr",
+    "may": "may",
+    "jun": "jun",
+    "jul": "jul",
+    "aug": "aug",
+    "sep": "sep",
+    "oct": "oct",
+    "nov": "nov",
+    "dec": "dec"
 
   }
 }

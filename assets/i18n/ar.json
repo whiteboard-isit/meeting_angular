@@ -1,6 +1,14 @@
 {
   "dir": "rtl",
   "meeting_manager": {
+    "private_meeting":"اجتماع سري",
+    "blue_category":"التصنيف الأزرق",
+    "purple_category":"التصنيف الأرجواني",
+    "red_category":"التصنيف الاحمر",
+    "orange_category":"التصنيف البرتقالي",
+    "green_category":"التصنيف الاخضر",
+    "meeting_category":"تصنيف الاجتماع",
+    "location_data":"بيانات الموقع",
     "choose_setting_value": "اختر قيمة الإعداد",
     "meeting_subject": "موضوع الاجتماع",
     "meeting_date": "تاريخ الاجتماع",
@@ -20,7 +28,10 @@
     "manage_locations": "إدارة القاعات",
     "locations_management": "إدارة المواقع",
     "Assigned": "تكليف",
-    "minutes_before": "قبل دقائق",
+    "remind_before_15_minutes": "التذكير قبل 15 دقيقة",
+    "remind_before_5_minutes": "التذكير قبل 5 دقائق",
+    "remind_before_10_minutes": "التذكير قبل 10 دقائق",
+    "meeting_reminder": "التذكير بالاجتماع",
     "meeting_decription": "الوصف",
     "notification_not_read": "الإشعارات غير المقروءة",
     "notification_Fav": "الإشعارات المفضلة",
@@ -146,7 +157,8 @@
     "there_are_no_Notification": "لا يوجد اشعارات",
     "add_track": "إضافة للمسار",
     "Alert_date_before_the_meeting": "موعد التنبيه قبل الاجتماع",
-    "meetingHours": "عدد ساعات الاجتماع"
+    "meetingHours": "عدد ساعات الاجتماع",
+    "build_meeting":"بناء الأجتماع"
   },
   "survey": {
     "create_new_survey": "إنشاء استبيان جديد",
@@ -1566,12 +1578,18 @@
     "first_day": "اول يوم عمل بالأسبوع",
     "time_scale": "مقياس الوقت",
     "work_weak": "اسبوع العمل",
-    "sun": "الأحد",
-    "mon": "الاتنين",
-    "tue": "التلات",
-    "wed": "الاربع",
-    "thu": "الخميس",
-    "working_hours":"ساعات العمل"
+    "sun": "ح",
+    "mon": "ن",
+    "tue": "ث",
+    "wed": "ر",
+    "thu": "خ",
+    "fri":"ج",
+    "sat":"س",
+    "working_hours":"ساعات العمل",
+     "Last_7_Days":"اخر 7 ايام",
+     "Last_30_Days":"اخر 30 يوم",
+     "Select_please":"اختار من فضلك",
+     "clear":"مسح"
   }
 
 }
