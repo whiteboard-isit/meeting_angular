@@ -1,6 +1,11 @@
 {
   "dir":"ltr",
   "meeting_manager": {
+    "time_scale":"Time scale",
+    "time_scale_60_min":"Time scale 60 minutes",
+    "time_scale_30_min":"Time scale 30 minutes",
+    "time_scale_15_min":"Time scale 15 minutes",
+    "time_scale_5_min":"Time scale 5 minutes",
     "private_meeting":"Private meeting",
     "blue_category":"Blue category",
     "purple_category":"Purple category",
@@ -117,6 +122,7 @@
     "Internal": "Internal",
     "edit_meeting": "edit meeting",
     "close_meeting": "close meeting",
+    "cancel_meeting": "cancel meeting",
     "Organiser": "Organiser",
     "Attendees": "Attendees",
     "Tracking": "Tracking",
@@ -158,9 +164,8 @@
      "there_are_no_data":"there are no data",
      "there_are_no_Notification":"there are no Notifications",
      "Alert_date_before_the_meeting":"Alert date before the meeting",
-     "build_meeting":"build meeting"
-
-
+     "build_meeting":"build meeting",
+     "Meeting_link":"Meeting Link"
   },
   "survey": {
     "create_new_survey": "Create new survey",
@@ -1434,7 +1439,27 @@
     "sep": "sep",
     "oct": "oct",
     "nov": "nov",
-    "dec": "dec"
+    "dec": "dec",
+    "on_day": " on day ",
+    "Occurs_on_day":"Occurs on day",
+    "on":"on",
+    "Occurs_Every_day": "Occurs Every day",
+    "Occurs_Every":"Occurs Every",
+    "from_every_month":"From Every Month",
+    "from_month":"From Month",
+    "Please_note_that_the_specified_date_is_outside_the_official_working_hours":"Please Note that the specified date is outside the official working hours",
+    "Please_note_that_the_specified_time_is_outside_the_official_working_hours":"Please Note That The Specified time is outside the official working hours",
+    "Please_review_the_following_points_before_saving":"Please review the following points before saving",
+    "endDate.":"- End Date .",
+    "endTime.":"- End Time .",
+    "startDate.":"- start Date .",
+    "startTime.":"- start Time .",
+    "no_matching_location_found":"No Matching Location Found",
+    "no_users_found":"no users found",
+    "Select_Users":"Select Users"
+
+
+
 
   }
 }
