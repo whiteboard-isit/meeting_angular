@@ -104,6 +104,7 @@
     "subtasks": "Subtasks",
     "end_as_successfull": "End task as successful",
     "end_task_as_failed": "End task as failed",
+    "change_task_status":"Change task status",
     "meetings_attachments": "Meeting attachments",
     "attachments": "Attachments",
     "attachment": "Attachment",
@@ -165,7 +166,9 @@
      "there_are_no_Notification":"there are no Notifications",
      "Alert_date_before_the_meeting":"Alert date before the meeting",
      "build_meeting":"build meeting",
-     "Meeting_link":"Meeting Link"
+     "Meeting_link":"Meeting Link",
+     "Please_specify_the_main_action_if_found":"Please specify the main task if found "
+
   },
   "survey": {
     "create_new_survey": "Create new survey",
