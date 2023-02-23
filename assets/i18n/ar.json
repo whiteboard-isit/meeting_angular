@@ -1,7 +1,22 @@
 {
   "dir": "rtl",
   "meeting_manager": {
-    "reassign_task":"إعادة تعيين المهمة",
+    "what_was_discussed":"ما تم  مناقشته",
+    "add_to_discussions":"أضف إلى المناقشات",
+    "discussions":"النقاط المناقشة",
+    "please_select_the_time_frame":"الرجاء تحديد الإطار الزمني",
+    "meetings_due_to_the_task":"الإجتماعات المترتبة علي الإجراء",
+    "book_a_meeting_due_to_the_task":"حجز اجتماع مترتب علي الإجراء",
+    "please_select_task":"الرجاء تحديد الإجراء",
+    "meeting_has_parent":"الاجتماع له سبب سابق",
+    "meeting_reason_type":"نوع المسبب للإجتماع",
+    "meeting_reason":"سبب الاجتماع",
+    "previous_task":"إجراء سابق",
+    "previous_meeting":"اجتماع سابق",
+    "no_matching_tasks_found":"نآسف لم يتم العثور على إجراءات مطابقة",
+    "please_select_meeting":"الرجاء تحديد الاجتماع",
+    "no_matching_meetings_found":"نآسف لم يتم العثور على اجتماعات مطابقة",
+    "reassign_task":"إعادة تعيين الإجراء",
     "time_scale":"المقياس الزمني",
     "time_scale_60_min":"60 دقيقة",
     "time_scale_30_min":"30 دقيقة",
@@ -34,6 +49,7 @@
     "manage_locations": "إدارة القاعات",
     "locations_management": "إدارة المواقع",
     "Assigned": "تكليف",
+    "assigned_person":"الشخص المكلف",
     "remind_before_15_minutes": "التذكير قبل 15 دقيقة",
     "remind_before_5_minutes": "التذكير قبل 5 دقائق",
     "remind_before_10_minutes": "التذكير قبل 10 دقائق",
@@ -72,7 +88,7 @@
     "meeting_updated": "برجاء ملاحظة وجود تعديلات :meeting",
     "meeting_starts_reminder": "تذكير باجتماع :title المسجل بموعد :date",
     "meeting_result": "نتيجة ",
-    "meeting_agenda": "العناوين الرئيسية",
+    "meeting_agenda": "الأجندة",
     "meeting_agenda_survey": "استبيان جدول الأعمال ",
     "meeting_mom": "الملخص",
     "add_new_mom": "إضافة النتيجة",
@@ -82,8 +98,8 @@
     "Please_specify_the_main_action_if_found":"برجاء تحديد الاجراء الرئيسى ان وجد",
     "add_new_task": "إضافة إجراء جديدة",
     "survey": "استبيان",
-    "upcomming_tasks": "المهام القادمة",
-    "upcomming_meetings": "القادمة",
+    "upcomming_tasks": "المهام",
+    "upcomming_meetings": "الاجتماعات القادمة",
     "the_meetings": "الاجتماعات",
     "meeting_topic": "عنوان",
     "task_owner": "منفذ الإجراء",
@@ -99,9 +115,9 @@
     "task_history": "تاريخ الإجراء",
     "subtasks": "المهام الفرعية",
     "configured": "مهيأ",
-    "end_task_as_successful": "إنهاء المهمة بنجاح",
-    "end_task_as_failed": "إنهاء المهمة على أنها فاشلة",
-    "change_task_status":"تغيير حالة المهمة",
+    "end_task_as_successful": "إنهاء الإجراء بنجاح",
+    "end_task_as_failed": "إنهاء الإجراء على أنها فاشلة",
+    "change_task_status":"تغيير حالة الإجراء",
     "meetings_attachments": "الملفات المرفقة",
     "attachments": "الملفات المرفقة",
     "attachment": "المرفقات",
@@ -163,12 +179,14 @@
     "user_translate": "ترجمة المستخدم",
     "MeetingAttendeeStatus_update": "تحديث حالة الحضور ",
     "there_are_no_data": "لا يوجد بيانات",
+    "there_are_no_comment": "لا يوجد التعليقات",
     "there_are_no_Notification": "لا يوجد اشعارات",
     "add_track": "إضافة للمسار",
     "Alert_date_before_the_meeting": "موعد التنبيه قبل الاجتماع",
     "meetingHours": "عدد ساعات الاجتماع",
     "build_meeting":"بناء الأجتماع",
-    "Meeting_link":"رابط الاجتماع"
+    "Meeting_link":"رابط الاجتماع",
+    "Reassignment_to_a_specific_person":"اعادة تعين لشخص معين"
   },
   "survey": {
     "create_new_survey": "إنشاء استبيان جديد",
@@ -232,7 +250,9 @@
     "not_finished": "لم ينتهي",
     "answer_body": "الاجابة",
     "start_now": "ابدأ الآن",
-    "snooz": "لاحقا"
+    "snooz": "لاحقا",
+    "add_survey":"اضافة استبيان",
+    "View_meeting_survies":"عرض الاستبيانات الخاصة  بالاجتماع"
   },
   "adminstration": {
     "Search_for_users_using_the_fields_below":"ابحث عن المستخدمين باستخدام الحقول أدناه",
@@ -1618,7 +1638,16 @@
      "Please_review_the_following_points_before_saving":"برجاء مراجعة النقاط التالية قبل الحفظ",
      "no_matching_location_found":"لم يتم العثور على موقع مطابق",
      "no_users_found":"لا يوجد مستخدمين",
-     "Select_Users":"اختر المستخدمين"
+     "Select_Users":"اختر المستخدمين",
+     "add_comment":"اضافة تعليق",
+     "Are_you_sure_to_add_a_comment": "هل أنت متأكد من اضافة تعليق ؟",
+     "Are_you_sure_to_finish_the_task":"هل متاكد من انهاء المهمة بنجاح ؟",
+     "Are_you_sure_the_task_is_terminated_as_failed":"هل متاكد من انهاء المهمة على انها فاشلة ؟",
+     "Are_you_sure_to_reset":"هل انت متأكد من اعادة التعين",
+     "Sorry_there_are_no_people_available_to_do_the_task":"آسف لا يوجد أشخاص آخرين متاحين للقيام بالمهمة",
+     "Add_users_to_the_survey_now":"اضافة الحضور على الاستبيان / تصويت فورا دون الانتظار حتى نهاية الاجتماع",
+     "vote":"تصويت"
+
   }
 
 }

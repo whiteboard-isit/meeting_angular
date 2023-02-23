@@ -1,6 +1,21 @@
 {
   "dir":"ltr",
   "meeting_manager": {
+    "what_was_discussed":"What was discussed",
+    "add_to_discussions":"Add to discussions",
+    "discussions":"Discussions",
+    "please_select_the_time_frame":"Please select the time frame",
+    "meetings_due_to_the_task":"Meetings due to the task",
+    "book_a_meeting_due_to_the_task":"Book a meeting due to the task",
+    "please_select_task":"Please select a task",
+    "meeting_has_parent":"Meeting has a previous reason",
+    "meeting_reason_type":"Meeting reason type",
+    "meeting_reason":"Meeting reason",
+    "previous_task":"Previous task",
+    "previous_meeting":"Previous meeting",
+    "no_matching_tasks_found":"Sorry no matching tasks found",
+    "please_select_meeting":"Please select a meeting",
+    "no_matching_meetings_found":"Sorry no matching meetings found",
     "time_scale":"Time scale",
     "time_scale_60_min":"Time scale 60 minutes",
     "time_scale_30_min":"Time scale 30 minutes",
@@ -163,11 +178,17 @@
     "user_translate":"user translate",
      "MeetingAttendeeStatus_update":"Meeting Attendee Status update",
      "there_are_no_data":"there are no data",
+     "there_are_no_comment": "there are no comment",
      "there_are_no_Notification":"there are no Notifications",
      "Alert_date_before_the_meeting":"Alert date before the meeting",
      "build_meeting":"build meeting",
      "Meeting_link":"Meeting Link",
-     "Please_specify_the_main_action_if_found":"Please specify the main task if found "
+     "Please_specify_the_main_action_if_found":"Please specify the main task if found ",
+     "Reassignment_to_a_specific_person":"Reassignment to a specific person",
+     "assigned_person":"assigned person",
+     "reassign_task":"reassign task",
+     "end_task_as_successful": "end task as successful"
+
 
   },
   "survey": {
@@ -232,9 +253,9 @@
     "not_finished": "Not finished",
     "answer_body":"answer body",
     "snooz":"snooz",
-    "start_now" : "start now"
-
-
+    "start_now" : "start now",
+    "add_survey":"add survey",
+    "View_meeting_survies":"View Meeting Survies"
   },
   "adminstration": {
     "location_data":"Location data",
@@ -1459,8 +1480,15 @@
     "startTime.":"- start Time .",
     "no_matching_location_found":"No Matching Location Found",
     "no_users_found":"no users found",
-    "Select_Users":"Select Users"
-
+    "Select_Users":"Select Users",
+    "add_comment":"add comment",
+    "Are_you_sure_to_add_a_comment": "Are you sure to add a comment ?",
+    "Are_you_sure_to_finish_the_task":"Are you sure to finish the task",
+    "Are_you_sure_the_task_is_terminated_as_failed":"Are you sure the task is terminated as failed?",
+    "Are_you_sure_to_reset":"Are you sure to reset",
+    "Sorry_there_are_no_people_available_to_do_the_task":"Sorry, there are no people available to do the task",
+    "Add_users_to_the_survey_now":"Add attendees to the survey immediately without waiting until the end of the meeting",
+    "vote":"vote"
 
 
 
