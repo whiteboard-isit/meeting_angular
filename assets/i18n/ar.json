@@ -1,6 +1,7 @@
 {
   "dir": "rtl",
   "meeting_manager": {
+    "no_surveys_found":"لم يتم العثور على استبيانات ملائمه",
     "view_and_print_meeting_report":"عرض وطباعة تقرير الاجتماع",
     "what_was_discussed":"ما تم  مناقشته",
     "add_to_discussions":"أضف إلى المناقشات",

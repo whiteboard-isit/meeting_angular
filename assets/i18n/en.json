@@ -1,6 +1,7 @@
 {
   "dir":"ltr",
   "meeting_manager": {
+    "no_surveys_found":"Sorry no surveys found",
     "view_and_print_meeting_report":"View and print meeting report",
     "what_was_discussed":"What was discussed",
     "add_to_discussions":"Add to discussions",
