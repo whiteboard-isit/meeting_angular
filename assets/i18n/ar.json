@@ -1,6 +1,7 @@
 {
   "dir": "rtl",
   "meeting_manager": {
+    "view_and_print_meeting_report":"عرض وطباعة تقرير الاجتماع",
     "what_was_discussed":"ما تم  مناقشته",
     "add_to_discussions":"أضف إلى المناقشات",
     "discussions":"النقاط المناقشة",
@@ -58,7 +59,7 @@
     "notification_not_read": "الإشعارات غير المقروءة",
     "notification_Fav": "الإشعارات المفضلة",
     "emailsSent": "رسائل البريد الإلكتروني المرسلة",
-    "Health_and_National_Insurance_Center": "مركز التأمين الصحي والوطني",
+    "Health_and_National_Insurance_Center": "وزارة الإعلام",
     "Loading_events": "تحميل الأحداث",
     "Event": "حدث",
     "Loading": "تحميل",
@@ -186,7 +187,18 @@
     "meetingHours": "عدد ساعات الاجتماع",
     "build_meeting":"بناء الأجتماع",
     "Meeting_link":"رابط الاجتماع",
-    "Reassignment_to_a_specific_person":"اعادة تعين لشخص معين"
+    "Reassignment_to_a_specific_person":"اعادة تعين لشخص معين",
+    "add_to_discussion":"أضف إلى المناقشة",
+    "title":"عنوان الاجتماع",
+    "location":"موقع الاجتماع",
+    "date":"التاريخ",
+    "company":"الشركة",
+    "Meeting_headlines":"العناوين الرئيسية للاجتماع",
+    "action":"الأجراء",
+    "executed_action":"منفذ الأجراء",
+    "Risks":"المخاطر",
+    "Minutes_of_Meeting":"محضر اجتماع"
+
   },
   "survey": {
     "create_new_survey": "إنشاء استبيان جديد",
@@ -528,7 +540,7 @@
     "themes": "العلامات",
     "id": "رقم المستخدم",
     "Open Modal": "عرض المزيد ",
-    "job title": "المسمي الوظيفي ",
+    "job_title": "المسمي الوظيفي ",
     "addNewTheme": "إضافة علامة جديدة",
     "staff director": "مدير الموظفين",
     "theme": "العلامة",
@@ -1646,7 +1658,8 @@
      "Are_you_sure_to_reset":"هل انت متأكد من اعادة التعين",
      "Sorry_there_are_no_people_available_to_do_the_task":"آسف لا يوجد أشخاص آخرين متاحين للقيام بالمهمة",
      "Add_users_to_the_survey_now":"اضافة الحضور على الاستبيان / تصويت فورا دون الانتظار حتى نهاية الاجتماع",
-     "vote":"تصويت"
+     "vote":"تصويت",
+     "disscuion":"المناقشة"
 
   }
 

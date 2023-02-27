@@ -1,6 +1,7 @@
 {
   "dir":"ltr",
   "meeting_manager": {
+    "view_and_print_meeting_report":"View and print meeting report",
     "what_was_discussed":"What was discussed",
     "add_to_discussions":"Add to discussions",
     "discussions":"Discussions",
@@ -36,7 +37,7 @@
     "meetingHours":"Meeting Hours",
 
     "meeting_manager": "Meeting manager",
-    "Health_and_National_Insurance_Center":"Health and National Insurance Center",
+    "Health_and_National_Insurance_Center":"Ministry of Information",
     "Home": "Home",
     "Meeting": "Meeting",
     "Meetings": "Meetings",
@@ -187,9 +188,17 @@
      "Reassignment_to_a_specific_person":"Reassignment to a specific person",
      "assigned_person":"assigned person",
      "reassign_task":"reassign task",
-     "end_task_as_successful": "end task as successful"
-
-
+     "end_task_as_successful": "end task as successful",
+     "add_to_discussion":"add to discussion",
+     "title":"title",
+    "location":"location",
+    "date":"date",
+    "company":"company",
+    "Meeting_headlines":"Meeting headlines",
+    "action":"action",
+    "executed_action":"executed action",
+    "Risks":"Risks",
+    "Minutes_of_Meeting":"Minutes of Meeting"
   },
   "survey": {
     "create_new_survey": "Create new survey",
@@ -1488,7 +1497,9 @@
     "Are_you_sure_to_reset":"Are you sure to reset",
     "Sorry_there_are_no_people_available_to_do_the_task":"Sorry, there are no people available to do the task",
     "Add_users_to_the_survey_now":"Add attendees to the survey immediately without waiting until the end of the meeting",
-    "vote":"vote"
+    "vote":"vote",
+    "job_title": "job title"
+
 
 
 
