@@ -289,6 +289,8 @@
   "adminstration": {
     "Search_for_users_using_the_fields_below": "ابحث عن المستخدمين باستخدام الحقول أدناه",
     "users_who_have_been_attached_to_the_role": "المستخدمين الذين تم إلحاقهم بالدور",
+    "users_who_have_been_attached_to_this_group": "المستخدمين الذين تم إلحاقهم بالمجموعة",
+    "location_data": "بيانات الموقع",
     "mini_logo": "الشعار المصغر",
     "mega_logo": "الشعار الكامل",
     "change_logo": "تغيير الشعار",
