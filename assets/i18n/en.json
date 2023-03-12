@@ -22,6 +22,11 @@
     "procedure_status": "Procedure Status"
   },
   "meeting_manager": {
+    "add_to_meeting_categories" : "Add to meeting categories",
+    "category_update":"Category update",
+    "category_title":"Category title",
+    "meeting_categories" : "Meeting categories",
+    "category_color" : "Category color",
     "meeting_canceled":"Meeting canceled",
     "no_surveys_found":"Sorry no surveys found",
     "view_and_print_meeting_report":"View and print meeting report",
@@ -258,7 +263,7 @@
     "question_answer": "Question answer",
     "sorry_we_can_not_delete_used_survey": "Sorry we can't delete used survey",
     "reminder_to_do_survey": "Reminder to do survey",
-    "please_note_that_you_have_to_finish_all_surveys_to_e_able_to_complete_course": "Please note that you have to finish all surveys to e able to complete course",
+    "please_note_that_you_have_to_finish_all_surveys_to_e_able_to_complete_course": "Please note that there are surveys / votings that need to completed",
     "needs_to_be_done": "Needs to be done",
     "survey_center": "Survey center",
     "survey_already_used": "Sorry survey already used",

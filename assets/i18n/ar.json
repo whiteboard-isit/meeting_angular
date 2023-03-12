@@ -22,6 +22,11 @@
     "procedure_status": "حالة الإجراء"
   },
   "meeting_manager": {
+    "add_to_meeting_categories" : "إضافة إلى تصنيفات الاجتماع",
+    "category_update":"تعديل التصنيف",
+    "category_title":"مسمي التصنيف",
+    "meeting_categories" : "تصنيفات الإجتماعات",
+    "category_color" : "لون التصنيف",
     "meeting_canceled":"تم إلغاء الإجتماع",
     "no_surveys_found":"لم يتم العثور على استبيانات ملائمه",
     "view_and_print_meeting_report":"عرض وطباعة تقرير الاجتماع",
@@ -268,7 +273,7 @@
     "question_answer": "اجابه السؤال",
     "sorry_we_can_not_delete_used_survey": "نأسف ، لا يمكننا حذف استبيان مستخدم مسبقا",
     "reminder_to_do_survey": "تذكير بإجراء الُاستبيان",
-    "please_note_that_you_have_to_finish_all_surveys_to_e_able_to_complete_course": "يرجى ملاحظة أنه يجب عليك إنهاء جميع الاستبيانات حتى تتمكن من إكمال الدورة التدريبية",
+    "please_note_that_you_have_to_finish_all_surveys_to_e_able_to_complete_course": "يرجى ملاحظة أن هناك استطلاعات / تصويتات تحتاج إلى إكمالها",
     "needs_to_be_done": "يجب القيام بها",
     "survey_center": "مركز الاستبيانات",
     "survey_already_used": "عذرا الاستبيان ملحق مسبقا بالدورة",
