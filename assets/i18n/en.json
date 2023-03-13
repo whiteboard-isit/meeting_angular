@@ -121,6 +121,7 @@
     "meeting_updated": "Please note that meeting :title has been updated",
     "meeting_starts_reminder": "Reminder for meeting :title that is scheduled at :date",
     "meeting_result": "Result",
+    "add_to_meeting_agenda" : "Add to meeting agenda",
     "meeting_agenda": "Agenda",
     "meeting_agenda_survey": "Agenda survey",
     "meeting_mom": "Meeting MOM",
